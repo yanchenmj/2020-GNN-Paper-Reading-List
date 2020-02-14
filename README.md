@@ -1,7 +1,7 @@
 # 2019-2020-GNN-paper-reading-list
 Top conference reading list of graph neural network
 
-[KDD 2019](KDD 2019)
+[KDD 2019](#KDD 2019)
 
 ## KDD 2019
 
