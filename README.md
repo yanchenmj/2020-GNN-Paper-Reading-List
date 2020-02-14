@@ -2,6 +2,10 @@
 Top conference reading list of graph neural network
 
 [KDD 2019](#KDD-2019)
+[NeurIPS2019](#NeurIPS2019)
+[ICCV 2019](#ICCV-2019)
+[WWW 2019](#WWW-2019)
+[ICLR 2020](#ICLR-2020)
 
 ## KDD 2019
 
