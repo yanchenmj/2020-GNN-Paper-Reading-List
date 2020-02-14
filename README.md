@@ -93,6 +93,10 @@ Link：
 
 http://data.holdenhu.site/papers/graph/graph-transformer-networks.pdf
 
+code:
+
+https://github.com/ seongjunyun/Graph_Transformer_Networks
+
 
 3、Can Graph Neural Networks Help Logic Reasoning?
 
